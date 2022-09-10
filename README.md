@@ -1,3 +1,4 @@
 # WebDev-Bootcamp
 
-[Link text Here](https://webbootcamp1.artisticjerry.repl.co)
+[Replit Link](https://webbootcamp1.artisticjerry.repl.co) or Codepen: [Codepen Link]([https://webbootcamp1.artisticjerry.repl.co]
+
