@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width" , initial-scale=1.0">
+</head>
+
+<body>
+  <h1>Forms Demo</h1>
+  <form action="/tacos">
+    <input type="text" placeholder="username">
+    <input type="password" placeholder="password">
+    <input type="color">
+    <input type="range">
+    <input type="number" placeholder="enter a number">
+  </form>
+  <br>
+  <br>
+  <div class="preference">
+    <label for="Python"> Do you know Python? </label>
+    <input type="checkbox" name="python" id="python">
+  </div>
+  <div class="preference">
+    <label for="Java"> Do you know Java? </label>
+    <input type="checkbox" name="Java" id="Java">
+  </div>
+  <div class="preference">
+    <label for="SQL"> Do you know SQL? </label>
+    <input type="checkbox" name="sql" id="sql">
+  </div>
+  <form action="https://www.youtube.com/results">
+    <input type="text" name="search_query">
+    <button> Search YouTube Video</button>
+  </form>
+  <h2> More Inputs! </h2>
+  <form action="/birds">
+    <input type="checkbox" name="agree_tos" id="agree">
+    <label for="agree"> I agree to everything</label>
+    <p>
+      <label for="xs"> XS: </label>
+      <input type="radio" name="size" id="xs" value="xs">
+      <label for="s"> S: </label>
+      <input type="radio" name="size" id="s" value="s">
+      <label for="m"> M: </label>
+      <input type="radio" name="size" id="m" value="m">
+      <label for="l"> L: </label>
+      <input type="radio" name="size" id="l" value="l">
+    </p>
+    <button> Submit </button>
+  </form>
+  <label for="vegan-selection"> Choose Vegan Food: <label>
+      <select name="vegan" id="vegan-selection">
+        <option value="tofu"> Tofu </option>
+        <option value="mushrooms"> Mushrooms </option>
+        <option value="beans"> Beans </option>
+    </label>
+    <p>
+      <label for="Tofu"> Amount of Tofu:</label>
+      <input type="range" id="Tofu" min="1" max="100" value="75" name="Tofu"> <button> Submit </button>
+
+    </p>
+    <p>
+      <label for="story"> What is your story: </label>
+                        <br>
+      <textarea id="story" name="story" rows="10" cols="40">
+          </textarea>
+    </p>
+</body>
+
+</html>
