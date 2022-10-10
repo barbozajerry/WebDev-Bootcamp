@@ -11,3 +11,5 @@
 5. Art Pricing Table: [Replit](https://Pricing-Panel.jerrybarboza.repl.co)
 
 6. 
+
+7. 
