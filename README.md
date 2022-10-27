@@ -1,5 +1,5 @@
 # Web Development Bootcamp - Udemy
-These assignmnets were done by following tis bootcamp from Udemy.
+These assignmnets were done by following tis bootcamp from Udemy.<br>
 
 1. *Race Registration HTML* :[Replit Link](https://webbootcamp1.artisticjerry.repl.co) or Codepen: [Codepen Link](https://codepen.io/artisticjerry/pen/popBBzG)
 
